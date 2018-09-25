@@ -1,2 +1,2 @@
 # CSCA48
-Exercises and Assignments in CSCA48
+Exercises of CSCA48
